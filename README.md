@@ -4,7 +4,7 @@ The **DSA Solution Platform** is an open-source project designed to help users p
 
 ## ✨ Key Features
 
-- **User Authentication**  
+- **User Authentication** 
   - Sign up, log in, and manage your profile using secure authentication (JWT).
   
 - **Categorized Problems**  
