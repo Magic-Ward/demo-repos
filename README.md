@@ -41,24 +41,8 @@ The **DSA Solution Platform** is an open-source project d  esigned to help users
 
 - **Responsive Design**  
   - Fully responsive design for seamless usage on both desktop and mobile devices.
-
-## 🛠 Tech Stack
-
-- **Frontend**:
-  - **HTML**, **CSS**, **JavaScript** (React.js or Next.js) – Provides a dynamic and interactive user interface.
-
-- **Backend**:
-  - **Node.js**, **Express** – A scalable backend API for handling requests and user management.
-
-- **Database**:
-  - **MongoDB** or **PostgreSQL** – Store data such as user profiles, problem descriptions, submissions, and leaderboard rankings.
-
-- **Code Execution**:
-  - **Docker** – Secure containerized environment for running and testing user-submitted code.
-
-- **Authentication**:
-  - **JWT (JSON Web Tokens)** – Ensures secure authentication and session management.
-
+thentication and session management.
+ 
 - **Testing and CI**:
   - **Jest**, **Mocha**, or **Chai** – To write unit tests and ensure code quality.
 
