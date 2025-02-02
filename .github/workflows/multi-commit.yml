@@ -1,0 +1,31 @@
+name: Multi Commit Workflow
+
+on:
+  push:
+    branches:
+      - main
+  # or you can manually trigger using workflow_dispatch:
+  # workflow_dispatch:
+
+jobs:
+  commit_job:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Generate 200 commits
+        run: |
+          for i in $(seq 1 200); do
+            echo "Commit #$i" >> commit_message.txt
+            git add commit_message.txt
+            git commit -m "Commit #$i"
+            git push origin main
+            sleep 2  # Optional, helps avoid hitting rate limits too fast
+          done
