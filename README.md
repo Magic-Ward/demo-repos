@@ -1,12 +1,15 @@
-      Star
-StarSta  rslfsffsfsStar
-vvStar   
-S tarStar
-Star  
-StarStar  
-StarStar s    
-Stars ss  
-Star  
-Star  
-Star
-  
+casljegjbnv bksbvjbskvbsjvbjsrbvjsnrbsbethbndgfbg
+xndg
+n
+dgndgndglnsrjognweogojsrnbjlnsfklbnsdgb
+nd]klbns
+dgknsgdkbngds
+kbg
+bkndsgbk
+
+gdnb]dg
+bsdgbkndsgkbnsdgkbnd
+gb;sfngksn
+rj]g
+fs
+gd
