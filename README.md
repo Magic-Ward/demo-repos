@@ -4,6 +4,6 @@ vv
 StarStar
 Star
 Star
-Star
+StarStar
 Stars
 Star
