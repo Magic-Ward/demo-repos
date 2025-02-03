@@ -1,7 +1,7 @@
 Star
 StarSta  rslfsffsfsStar
 vvStar  
-StarStar
+S tarStar
 Star 
 StarStar 
 StarStarss  
