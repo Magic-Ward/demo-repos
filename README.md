@@ -3,7 +3,7 @@ StarStarslfsffsfsStar
 vvStar
 StarStar
 Star
-Star
+StarStar
 StarStar
 Stars
 Star
