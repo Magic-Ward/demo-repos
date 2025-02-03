@@ -4,7 +4,7 @@ vvStar
 S tarStar
 Star  
 StarStar  
-StarStar s  
+StarStar s    
 Stars ss  
 Star 
 Star  
