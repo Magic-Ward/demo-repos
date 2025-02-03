@@ -6,7 +6,7 @@ Star
 StarStar  
 StarStar s    
 Stars ss  
-Star 
+Star  
 Star  
 Star
   
