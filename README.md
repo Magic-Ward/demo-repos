@@ -1,6 +1,6 @@
   Star
 StarSta  rslfsffsfsStar
-vvStar  
+vvStar   
 S tarStar
 Star  
 StarStar  
