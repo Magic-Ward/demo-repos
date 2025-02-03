@@ -6,7 +6,7 @@ dgknsgdkbngds
 kbg
 bkndsgbk 
  
-gdnb]dg
+g dnb]dg
 bsdgbkndsgkbnsdgkbnd
 gb;sfngksn
 rj]g
