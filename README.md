@@ -5,7 +5,7 @@ The **DSA Solution Platform** is an open-source project d  esigned to help users
 - **Categorized Problems**     
 
   - Access problems categorized into key DSA topics li
-    - Arr  
+    - Arr    
     - Linked Lists
     - Trees
     - Graphs
